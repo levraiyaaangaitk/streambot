@@ -52,7 +52,7 @@ You will need to get key from thoose dev tools :
 
 Everything is in the docs :
 - [Discord](https://discord.com/developers/docs/intro)
-- [YouTube (api key)](https://developers.google.com/youtube/?hl=fr)*
+- [YouTube (api key)](https://developers.google.com/youtube/?hl=fr)
 - [YouTube (channel ID picker)](https://commentpicker.com/youtube-channel-id.php)
 - [Twitch](https://dev.twitch.tv/docs)
 
@@ -63,6 +63,7 @@ Modify the `.env` with the info that you will copy from those website.
 ## 📜 License
 
 **Free to USe, MOIFY and DISTRIBUTE.**
+<br>
 StreamBot is an open source project created for the community.
 
 ---
