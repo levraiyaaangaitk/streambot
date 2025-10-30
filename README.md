@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/levraiyaaangaitk/streambot/blob/main/git_img/logo.png" alt="StreamBot Logo" width="300"/>
-</p>
-
 <h1 align="center">🎥 StreamBot</h1>
 
 <p align="center">
@@ -41,3 +37,5 @@ cd streambot
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
