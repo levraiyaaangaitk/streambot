@@ -39,3 +39,42 @@ cd streambot
 pip install -r requirements.txt
 ```
 
+---
+
+## 🔧 Setup
+
+You will need to get key from thoose dev tools :
+- [Discord](https://discord.com/developers/applications)
+- [YouTube Data API v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
+- [Twitch Developer Console](https://dev.twitch.tv/console)
+
+### 📲 Modify **.env** with you keys
+
+Everything is in the docs :
+- [Discord](https://discord.com/developers/docs/intro)
+- [YouTube (api key)](https://developers.google.com/youtube/?hl=fr)*
+- [YouTube (channel ID picker)](https://commentpicker.com/youtube-channel-id.php)
+- [Twitch](https://dev.twitch.tv/docs)
+
+Modify the `.env` with the info that you will copy from those website.
+
+---
+
+## 📜 License
+
+**Free to USe, MOIFY and DISTRIBUTE.**
+StreamBot is an open source project created for the community.
+
+---
+
+## 🧠 Acknowledgment
+
+- All code is **Human** made 🧑‍💻
+- Restructuring and polishing with help from Ai 🤖
+
+---
+
+## ⭐ Support the project
+
+If you like **StreamBot**, support the project by giving it a star on GitHub, it cost nothing.
+It really helps and motivates the development 💖
