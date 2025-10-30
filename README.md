@@ -62,7 +62,7 @@ Modify the `.env` with the info that you will copy from those website.
 
 ## 📜 License
 
-**Free to USe, MOIFY and DISTRIBUTE.**
+**Free to USE, MOIFY and DISTRIBUTE.**
 <br>
 StreamBot is an open source project created for the community.
 
