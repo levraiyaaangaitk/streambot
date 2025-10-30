@@ -1,4 +1,6 @@
-<h1 align="center">🎥 StreamBot</h1>
+<h1 align="center">
+  <img src="https://github.com/levraiyaaangaitk/streambot/blob/main/git_img/logo.png">
+</h1>
 
 <p align="center">
   A powerful and fun Discord bot made for content creators.  
